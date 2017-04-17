@@ -1,0 +1,12 @@
+What happens when you intialize a repository? Why do you need
+to do it?
+
+When using git init if causes a .git file to be added to the file
+that was intialized this will allow git to track changes
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+It is an area of choosing which files will be added to the next commit.
+It allows you to separate out changes in more than one file into different 
+commits.  Thus easier to find bugs.
