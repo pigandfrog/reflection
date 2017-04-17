@@ -15,3 +15,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 You are alble to control what it placed onto the staging area and 
 thus what will be the next item to be committed.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+Branches will help because it allows you to have different branches where
+the changes/commits are totally unrelated, such as having one that
+deals with experimental items and another branch that can deal with
+another language.
