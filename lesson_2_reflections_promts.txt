@@ -10,3 +10,8 @@ What value do you think it offers?
 It is an area of choosing which files will be added to the next commit.
 It allows you to separate out changes in more than one file into different 
 commits.  Thus easier to find bugs.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You are alble to control what it placed onto the staging area and 
+thus what will be the next item to be committed.
