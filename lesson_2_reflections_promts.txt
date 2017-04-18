@@ -23,3 +23,9 @@ Branches will help because it allows you to have different branches where
 the changes/commits are totally unrelated, such as having one that
 deals with experimental items and another branch that can deal with
 another language.
+
+What is the result of merging two branches together?  Why
+do we represent it in the diagram the way we do?
+
+Merging brings two different branches together.  It is represented
+as it is because there is now only one branch.
