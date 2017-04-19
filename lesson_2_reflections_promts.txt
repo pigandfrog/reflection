@@ -29,3 +29,13 @@ do we represent it in the diagram the way we do?
 
 Merging brings two different branches together.  It is represented
 as it is because there is now only one branch.
+
+What are the pros and cons of Git's automatice merging vs. always doing merging
+manualy?
+
+Git will make you manualy merge when there is a conflict between
+the two branches, meaning they both have changed the same area of code.  
+
+This makes it so that git is unable to tell when changes to keep.
+Doing it manualy allows the programmer to chose and hopefully not add
+some weird characteristics to the file.
