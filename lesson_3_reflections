@@ -8,3 +8,17 @@ Git automatically stay up-to-date with your remote repository?
 
 Sometimes the thing that you are working on, you may want to be different than the
 repository that is found on GitHub.
+
+Describe the differences between forks, clones, and branches.  
+When would you use one instead of another?
+
+Forks are used to clone someone else's repository that is found
+on GitHub into your GitHub page.-- You have a clone of their repository
+on your GitHub account.
+
+Clone means to copy a reposity it is used when copying from GitHub to 
+a local computer.
+
+A branch would mean to checkout a certain commint and make changes on 
+it(Further commits).  These would not affect the original branch.
+Branches don't copy a repository.
