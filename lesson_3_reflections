@@ -29,3 +29,9 @@ locally?
 It allow the git to track when you are different from the origin(remote) when offline
 It can also allow git to know if the remote has change since the last time 
 that you pulled from the remote.
+
+How would you collaborate withouth using Git or GitHub?  What
+would be easier, and what would be harder?
+
+I am not sure there would be anything that would be easier if 
+I was to not use GitHub.  Most everything would be harder.
