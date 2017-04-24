@@ -22,3 +22,10 @@ a local computer.
 A branch would mean to checkout a certain commint and make changes on 
 it(Further commits).  These would not affect the original branch.
 Branches don't copy a repository.
+
+What is the benefit of having a copy of the last known state of the remote stored
+locally?
+
+It allow the git to track when you are different from the origin(remote) when offline
+It can also allow git to know if the remote has change since the last time 
+that you pulled from the remote.
