@@ -35,3 +35,13 @@ would be easier, and what would be harder?
 
 I am not sure there would be anything that would be easier if 
 I was to not use GitHub.  Most everything would be harder.
+
+When would you want to make changes in a separate branch rather than directly in 
+master?  What benefits does each approach have?
+
+Making changes on a separate branch makes it so that when pushing to the remote repository
+that what other people are doing isn't messed up with what you have pushed 
+up to the repository.  Then you do a pull request to where the one
+that is controlling the remote repository can look at the changes
+you have done on your branch and resolve any issues with you before 
+merging it to the master branch.
